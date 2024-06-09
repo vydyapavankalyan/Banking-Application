@@ -1,0 +1,1 @@
+<h1 style="color: aqua;">New User Register Successfully</h1>
